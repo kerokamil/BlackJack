@@ -46,7 +46,7 @@ Make sure you have Python 3.10+ installed.
 
 Clone this repo:
 
-git clone https://github.com/YOUR_USERNAME/blackjack-game.git
+git clone https://github.com/kerokamil/BlackJack.git
 
 
 Navigate to the folder:
